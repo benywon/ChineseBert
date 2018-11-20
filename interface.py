@@ -10,7 +10,7 @@ import re
 import jieba_fast as jieba
 import torch
 import numpy as np
-from DQuAM.inference.model import MultiHead
+from model import MultiHead
 
 
 def get_model(filename):
