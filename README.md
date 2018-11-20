@@ -21,6 +21,8 @@ You can refer to the interface.py for more detail.
 ------------------------------------
 
 As the torch model file is very large, you should first download it from the google drive and then put them to the root.
+
 Large model : https://drive.google.com/open?id=1KWnMHBP39iIlU8lfMoaFnz6qn19_g7Gc
+
 Small file : https://drive.google.com/open?id=1JMf3daDdMvi2GXH39EatcSmZws8cxFZW
 
