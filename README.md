@@ -28,10 +28,6 @@ The model has been tested under sequence length less than 1024
 
 ------------------------------------
 
-As the torch model file is very large, you should download it from the google drive and then put them to the root.
-
-[Large model](https://drive.google.com/open?id=1H1b4G8a4plnZp762kmU4Sflo1OQ0kqVc)
-unzip it into resource directory
-
-small model in the resource
+As the torch model file is very large, you should download it from the google drive via
+ get_model.sh
 
