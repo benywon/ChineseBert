@@ -5,7 +5,7 @@ Currently it is run on python3 and pytorch
 
 -------------------------------------
 
-##Stats:
+#Stats:
 
 Data: 200m chinese internet question answering pairs.
 
@@ -17,11 +17,11 @@ large model takes 12 days for one epoch on 8-GPU NV-LINK v100.
 Small model takes 2 days for one epoch on 8-GPU NV-LINK v100.
 
 ------------------------------------------
-##Usage:
+#Usage:
 
 Fed with chinese question answer pair and get the combined representations.
 
-You can refer to the interface.py for more detail.
+You can refer to the main.py for more detail.
 
 The model has been tested under sequence length less than 1024
 
